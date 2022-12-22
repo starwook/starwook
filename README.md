@@ -3,8 +3,9 @@
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starwook&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)-->
+
 <summary>
-         &nbsp;<a href = "">신작 </a>: 백엔드, 배포 담당 <sub>(2022.10 ~ 2022.12)  진행중</sub> 
+         &nbsp;<a href = "">신작 </a>: 백엔드 담당 <sub>(2022.10 ~ 2022.12)  진행중</sub> 
  </summary>
  
   ![sinzak](https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg)
