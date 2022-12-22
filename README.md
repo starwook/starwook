@@ -7,6 +7,8 @@
  </summary>
  
   ![sinzak](https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg)
+
+ </details>
          
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starwook&show_icons=true&theme=radical)
          
