@@ -1,5 +1,5 @@
 
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kawaiibbit)](https://solved.ac/kawaiibbit)-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kawaiibbit)](https://solved.ac/kawaiibbit)
 
 <details open> &nbsp;
 <summary>
