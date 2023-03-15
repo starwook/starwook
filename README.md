@@ -1,5 +1,5 @@
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kawaiibbit)](https://solved.ac/kawaiibbit)
+
 
 <details open> &nbsp;
 <summary>
@@ -11,6 +11,7 @@
  </details>
          
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starwook&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kawaiibbit)](https://solved.ac/kawaiibbit)
          
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starwook&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)-->
