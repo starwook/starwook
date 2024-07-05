@@ -3,10 +3,10 @@
 
 <details open> &nbsp;
 <summary>
-        <!-- &nbsp;<a href = "https://sinzak.net">신작 </a>: 백엔드 담당 <sub>(2022.10 ~ 2023.5)  </sub> 
+        <!-- &nbsp;<a href = "https://sinzak.net">신작 </a>: 백엔드 담당 <sub>(2022.10 ~ 2023.5) --> </sub> 
  </summary>
  
-  ![sinzak](https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg)-->
+ <!-- ![sinzak](https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg)-->
 
  </details>
          
