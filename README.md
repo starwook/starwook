@@ -1,19 +1,10 @@
 
-<style>
-    details summary {
-        list-style: none; /* 기본 화살표 제거 */
-    }
-</style>
-
-<details> &nbsp;
 <summary>
         현대자동차그룹 Softeer 부트캠프 4기(2024.07~2024.08)
         <!-- &nbsp;<a href = "https://sinzak.net">신작 </a>: 백엔드 담당 <sub>(2022.10 ~ 2023.5) --> </sub> 
  </summary>
  
  <!-- ![sinzak](https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg)-->
-
- </details>
          
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starwook&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kawaiibbit)](https://solved.ac/kawaiibbit)
