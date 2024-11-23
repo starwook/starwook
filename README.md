@@ -5,7 +5,7 @@
     }
 </style>
 
-<details open> &nbsp;
+<details> &nbsp;
 <summary>
         현대자동차그룹 Softeer 부트캠프 4기(2024.07~2024.08)
         <!-- &nbsp;<a href = "https://sinzak.net">신작 </a>: 백엔드 담당 <sub>(2022.10 ~ 2023.5) --> </sub> 
