@@ -1,5 +1,9 @@
 
-
+<style>
+    details summary {
+        list-style: none; /* 기본 화살표 제거 */
+    }
+</style>
 
 <details open> &nbsp;
 <summary>
