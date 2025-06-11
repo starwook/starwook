@@ -11,6 +11,7 @@
 - 신작 : 미술품 및 외주 플랫폼 - 팀 프로젝트(기획, 백엔드 개발) <br>
 ### Certificate <br>
 - SQLD(2023.12) <br>
+- 삼성 SDS PRO (2023.08) <br>
  
  <!-- ![sinzak](https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg)-->
          
