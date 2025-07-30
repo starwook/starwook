@@ -17,6 +17,7 @@
          
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starwook&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kawaiibbit)](https://solved.ac/kawaiibbit)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=starwook)](https://github.com/starwook/velog-readme-stats)
          
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starwook&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)-->
