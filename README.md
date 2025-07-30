@@ -15,7 +15,7 @@
  
  <!-- ![sinzak](https://user-images.githubusercontent.com/94730032/201578971-0ddbf27c-4ae5-4f66-bf21-00bdf3c1811b.jpg)-->
          
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starwook&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starwook&show_icons=true&theme=radical)-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kawaiibbit)](https://solved.ac/kawaiibbit)
 ## Blog Posts
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=starwook)](https://velog.io/@starwook)
